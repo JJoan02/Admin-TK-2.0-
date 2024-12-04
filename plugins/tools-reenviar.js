@@ -17,8 +17,31 @@ let handler = async (m, { conn }) => {
             m
         );
 
-        // Intentar reenviar el mensaje citado
-        await conn.sendMessage(m.chat, { forward: m.quoted.fakeObj }, { quoted: m });
+        // Obtener el mensaje citado y verificar su contenido
+        const quoted = m.quoted;
+        if (!quoted) {
+            await conn.updateMessage(
+                m.chat,
+                statusMessage.key,
+                `❌ **Admin-TK informa:**\nNo se encontró un mensaje válido para reenviar.`
+            );
+            return;
+        }
+
+        // Construir el contenido reenviado con título de Admin-TK
+        let forwardedContent = {
+            text: `📤 *Admin-TK Reenvío:*\n\n${quoted.text || 'Contenido reenviado'}`,
+            mentions: quoted.mentionedJid || []
+        };
+
+        // Si el mensaje citado tiene un archivo adjunto, incluirlo en el reenvío
+        if (quoted.message) {
+            const type = Object.keys(quoted.message)[0];
+            forwardedContent = { ...forwardedContent, [type]: quoted.message[type] };
+        }
+
+        // Enviar el mensaje reenviado
+        await conn.sendMessage(m.chat, forwardedContent, { quoted: m });
 
         // Editar el mensaje inicial para indicar éxito
         await conn.updateMessage(
@@ -29,11 +52,10 @@ let handler = async (m, { conn }) => {
     } catch (error) {
         console.error("❌ Error en el plugin tools-reenviar:", error);
 
-        // Mensaje de error editado
-        await conn.reply(
+        // Manejo de errores
+        await conn.updateMessage(
             m.chat,
-            `❌ **Admin-TK informa:**\nNo se pudo reenviar el mensaje debido a un error: ${error.message}`,
-            m
+            `❌ **Admin-TK informa:**\nNo se pudo reenviar el mensaje debido a un error: ${error.message}`
         );
     }
 };
@@ -43,6 +65,7 @@ handler.tags = ['tools'];
 handler.command = ['reenviar'];
 
 export default handler;
+
 
 
 
