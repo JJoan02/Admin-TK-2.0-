@@ -36,19 +36,29 @@ const createPDF = async (images, part) => {
 };
 
 let handler = async (m, { conn, args }) => {
-    if (!args[0]) return conn.reply(m.chat, '🚩 Por favor, ingresa el ID del manga que deseas descargar.', m);
-    
+    if (!args[0]) {
+        await conn.reply(m.chat, `❌ **Admin-TK informa:**\nPor favor, ingresa el ID del manga que deseas descargar.`, m);
+        return;
+    }
+
     const mangaId = args[0];
     const langQuery = args[1] === 'es' ? 'translatedLanguage[]=es' : '';
+    let statusMessage = await conn.reply(m.chat, `📖 **Admin-TK informa:**\nBuscando capítulos del manga...`, m);
+
+    // Reacción inicial
+    await conn.relayMessage(m.chat, {
+        reactionMessage: { key: m.key, text: "🔍" } // Reacción de búsqueda
+    });
 
     try {
-        await m.react('🕓');
-
         const response = await fetch(`https://api.mangadex.org/manga/${mangaId}/feed?${langQuery}`);
         if (!response.ok) throw new Error('No se pudo obtener información del manga.');
         const { data: chapters } = await response.json();
-        if (!chapters || chapters.length === 0) return conn.reply(m.chat, '🚩 No se encontraron capítulos para este manga.', m);
-        
+        if (!chapters || chapters.length === 0) {
+            await conn.updateMessage(m.chat, statusMessage.key, `❌ **Admin-TK informa:**\nNo se encontraron capítulos para este manga.`);
+            return;
+        }
+
         const images = [];
         let part = 1;
 
@@ -64,8 +74,15 @@ let handler = async (m, { conn, args }) => {
                     const imageUrl = `${baseUrl}/data/${hash}/${filename}`;
                     const imagePath = await downloadImage(imageUrl, filename);
                     images.push(imagePath);
-                    
+
                     if (images.length === 80) {
+                        await conn.updateMessage(m.chat, statusMessage.key, `📦 **Admin-TK informa:**\nGenerando PDF, parte ${part}... 📄`);
+
+                        // Reacción de progreso
+                        await conn.relayMessage(m.chat, {
+                            reactionMessage: { key: m.key, text: "📤" }
+                        });
+
                         const pdfPath = await createPDF(images, part);
                         await conn.sendMessage(m.chat, { document: { url: pdfPath }, mimetype: 'application/pdf', fileName: `manga_part_${part}.pdf` }, { quoted: m });
                         await Promise.all(images.map(img => fsPromises.unlink(img)));
@@ -74,21 +91,32 @@ let handler = async (m, { conn, args }) => {
                     }
                 }
             } catch (error) {
-                await conn.reply(m.chat, `🚩 Error al procesar el capítulo ${chapterId}: ${error.message}`, m);
+                await conn.updateMessage(m.chat, statusMessage.key, `⚠️ **Admin-TK informa:**\nError al procesar el capítulo ${chapterId}: ${error.message}`);
                 continue;
             }
         }
 
         if (images.length > 0) {
+            await conn.updateMessage(m.chat, statusMessage.key, `📦 **Admin-TK informa:**\nGenerando PDF final... 📄`);
+
             const pdfPath = await createPDF(images, part);
             await conn.sendMessage(m.chat, { document: { url: pdfPath }, mimetype: 'application/pdf', fileName: `manga_part_${part}.pdf` }, { quoted: m });
             await Promise.all(images.map(img => fsPromises.unlink(img)));
         }
-        
-        await m.react('✅');
+
+        // Reacción final de éxito
+        await conn.relayMessage(m.chat, {
+            reactionMessage: { key: m.key, text: "✅" } // Reacción de éxito
+        });
+
+        await conn.updateMessage(m.chat, statusMessage.key, `✅ **Admin-TK informa:**\n¡Descarga completada con éxito! 🎉`);
     } catch (error) {
-        await m.react('✖️');
-        return conn.reply(m.chat, `🚩 Error: ${error.message}`, m);
+        await conn.updateMessage(m.chat, statusMessage.key, `❌ **Admin-TK informa:**\nOcurrió un error: ${error.message}`);
+
+        // Reacción de error
+        await conn.relayMessage(m.chat, {
+            reactionMessage: { key: m.key, text: "❌" }
+        });
     }
 };
 
@@ -98,4 +126,3 @@ handler.command = /^(mangadex)$/i;
 
 export default handler;
 
-console.log("Creado por Masha_OFC");
