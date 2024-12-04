@@ -1,0 +1,86 @@
+{
+  "name": "Admin-TK",
+  "version": "1.0.0",
+  "description": "Bot para WhatsApp de Administración de Grupos basado en Multi Device",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "plugins": "plugins"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp",
+    "whatsapp",
+    "Games-wabot",
+    "wabot-aq",
+    "multi-device",
+    "MD",
+    "baileys-md",
+    "administración-de-grupos"
+  ],
+  "homepage": "https://github.com/Admin-TK/Admin-TK-Bot",
+  "author": {
+    "name": "Joan TK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Admin-TK/Admin-TK.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Admin-TK/Admin-TK/issues"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@bochilteam/scraper": "^4.2.4",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "@ibaraki-douji/pixivts": "^2.4.1",
+    "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
+    "awesome-phonenumber": "^6.7.8",
+    "fluid-spotify.js": "*",
+    "axios": "^1.4.0",
+    "cfonts": "^3.2.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "acrcloud": "*",
+    "file-type": "*",
+    "fluent-ffmpeg": "^2.1.2",
+    "formdata-node": "*",
+    "google-it": "*",
+    "node-webpmux": "*",
+    "human-readable": "*",
+    "jsdom": "*",
+    "lodash": "*",
+    "lowdb": "^3.0.0",
+    "jimp": "*",
+    "moment-timezone": "*",
+    "translate-google-api": "^1.0.4",
+    "node-gtts": "*",
+    "url-regex-safe": "*",
+    "perf_hooks": "*",
+    "url-file-size": "*",
+    "pino": "*",
+    "qrcode": "*",
+    "qrcode-terminal": "*",
+    "readline": "*",
+    "sanzy-spotifydl": "*",
+    "syntax-error": "^1.4.0",
+    "speedtest-net": "^2.2.0",
+    "yargs": "^17.7.2",
+    "yt-search": "^2.10.4",
+    "ytdl-mp3": "github:HanSamu-27/ytdl-mp3",
+    "megajs": "^1.0.6",
+    "pdfkit": "^0.13.0"
+  },
+  "optionalDependencies": {
+    "@vitalets/google-translate-api": "^9.2.0"
+  },
+  "overrides": {
+    "sharp": "^0.32.2"
+  }
+}
