@@ -1,0 +1,2502 @@
+[
+    {
+        "question": "¿Qué ninja es conocido por comer mucho ramen? 🍜",
+        "response": "Naruto",
+        "hint": "🌪️ Protagonista de una serie famosa con una cinta en la frente. Tiene 6 letras."
+    },
+    {
+        "question": "¿Quién busca el One Piece? 🏴‍☠️",
+        "response": "Monkey D. Luffy",
+        "hint": "⚓ Capitán de los Piratas de Sombrero de Paja. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Pokémon siempre dice su nombre? ⚡",
+        "response": "Pikachu",
+        "hint": "🐭 Es eléctrico y amarillo. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué fruta no debes comer si quieres nadar en el mundo de One Piece? 🍎",
+        "response": "Fruta del diablo",
+        "hint": "🌊 Da poderes, pero pierdes la habilidad de nadar. Tiene 16 letras."
+    },
+    {
+        "question": "¿Quién es el mejor amigo de Sasuke? 💙",
+        "response": "Naruto",
+        "hint": "🌪️ Protagonista del anime que lleva su nombre. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué dragón concede deseos en Dragon Ball? 🐉",
+        "response": "Shenlong",
+        "hint": "✨ Es verde y aparece al juntar las esferas del dragón. Tiene 8 letras."
+    },
+    {
+        "question": "¿Qué animal acompaña a Ash en todas sus aventuras? ⚡",
+        "response": "Pikachu",
+        "hint": "🐭 Pokémon amarillo y eléctrico. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué cazador de demonios usa aretes con forma de llamas? 🔥",
+        "response": "Tanjiro Kamado",
+        "hint": "🌸 Protagonista de Demon Slayer. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué ninja quiere ser el Hokage? 🍜",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Sueña con ser líder de Konoha. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué es amarillo, flota y vive en una piña debajo del mar? 🍍",
+        "response": "Bob Esponja",
+        "hint": "🧽 Trabaja en el Crustáceo Cascarudo. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué saiyan tiene un nivel de pelea de más de 9000? 💥",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué serie tiene titanes gigantes que comen humanos? 🛡️",
+        "response": "Attack on Titan",
+        "hint": "⚔️ Involucra muros y titanes. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué ninja controla la arena? 🏜️",
+        "response": "Gaara",
+        "hint": "🌊 Líder de la Aldea de la Arena. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué es azul, rápido y colecciona anillos? 💍",
+        "response": "Sonic",
+        "hint": "🦔 Protagonista de videojuegos. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué animal es Totoro? 🌳",
+        "response": "Un espíritu del bosque",
+        "hint": "✨ Es el personaje principal de una película de Studio Ghibli. Tiene 20 letras."
+    },
+    {
+        "question": "¿Qué espadachín caza piratas y tiene tres espadas? ⚔️",
+        "response": "Roronoa Zoro",
+        "hint": "🏴‍☠️ Espadachín de los Piratas de Sombrero de Paja. Tiene 12 letras."
+    },
+    {
+        "question": "¿Qué personaje de Death Note posee un cuaderno mortal? 📓",
+        "response": "Light Yagami",
+        "hint": "🖤 Un estudiante con una mente brillante. Tiene 11 letras."
+    },
+    {
+        "question": "¿Cómo se llama el videojuego donde cazas monstruos gigantes? 🐲",
+        "response": "Monster Hunter",
+        "hint": "🗡️ Juego de Capcom con armas enormes. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué dragón concede deseos al juntar esferas? 🐉",
+        "response": "Shenlong",
+        "hint": "✨ Dragón de Dragon Ball. Tiene 8 letras."
+    },
+    {
+        "question": "¿Quién es el mago famoso que lleva gafas y una cicatriz? ⚡",
+        "response": "Harry Potter",
+        "hint": "🧙‍♂️ El niño que sobrevivió. Tiene 12 letras."
+    },
+    {
+        "question": "¿Qué videojuego tiene un fontanero que rescata a una princesa? 👑",
+        "response": "Super Mario Bros",
+        "hint": "🍄 Protagonista con bigote. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué personaje de Star Wars usa un sable de luz rojo? 🛑",
+        "response": "Darth Vader",
+        "hint": "🌌 Villano icónico. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué mago vive en una escuela llamada Hogwarts? 🏰",
+        "response": "Harry Potter",
+        "hint": "⚡ El niño con una cicatriz en forma de rayo. Tiene 12 letras."
+    },
+    {
+        "question": "¿Qué personaje de Disney pierde un zapato en un baile? 👡",
+        "response": "Cenicienta",
+        "hint": "🎵 Un hada madrina la ayuda. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué personaje de Toy Story es un vaquero? 🤠",
+        "response": "Woody",
+        "hint": "🐴 Es amigo de Buzz Lightyear. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué animal es conocido como el rey de la selva? 👑",
+        "response": "León",
+        "hint": "🦁 Tiene una gran melena. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué objeto mágico usa Sailor Moon para transformarse? 🌙",
+        "response": "El broche lunar",
+        "hint": "✨ Es brillante y pequeño. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué animal siempre dice 'Oink'? 🐷",
+        "response": "Cerdo",
+        "hint": "🥓 Es rosado. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué es azul, enorme y concede deseos en Aladdin? 🧞",
+        "response": "El genio",
+        "hint": "✨ Vive en una lámpara mágica. Tiene 8 letras."
+    },
+    {
+        "question": "¿Qué le falta a un esqueleto para poder vivir? 🦴",
+        "response": "La carne",
+        "hint": "🍖 Está dentro de nosotros. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto tiene una cola gigante? 🦊",
+        "response": "Kurama",
+        "hint": "🐺 El zorro de nueve colas. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece tiene un sombrero de paja? 🧢",
+        "response": "Monkey D. Luffy",
+        "hint": "🏴‍☠️ Capitán de los Piratas de Sombrero de Paja. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball se transforma en Super Saiyajin? 💥",
+        "response": "Goku",
+        "hint": "💪 Protagonista de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de Pokémon es el líder de gimnasio en Ciudad Celeste? 🏆",
+        "response": "Misty",
+        "hint": "💧 Especializada en Pokémon de tipo Agua. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Punch Man puede derrotar a cualquier enemigo con un solo golpe? 👊",
+        "response": "Saitama",
+        "hint": "🦸‍♂️ Protagonista de la serie homónima. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el poder de crear ilusiones? 🎭",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Tiene explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué criatura mitológica guarda el árbol de la vida en Noruega? 🌳",
+        "response": "Yggdrasil",
+        "hint": "🌌 Es un árbol gigante en la mitología nórdica. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué protagonista de Tokyo Ghoul tiene un ojo de ghoul? 👁️",
+        "response": "Kaneki Ken",
+        "hint": "🔪 Se convierte en mitad ghoul. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué héroe de Marvel usa un escudo indestructible? 🛡️",
+        "response": "Capitán América",
+        "hint": "🇺🇸 Es líder de los Vengadores. Tiene 16 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto tiene el Sharingan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Fairy Tail usa magia de dragón? 🐉",
+        "response": "Natsu Dragneel",
+        "hint": "🔥 Tiene la habilidad de quemar. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Usa un clima tenso para sus ataques. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de Bleach usa zanpakuto con forma de espada grande? 🗡️",
+        "response": "Ichigo Kurosaki",
+        "hint": "⚫ Tiene cabello naranja. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por sus técnicas de multiplicación de clones? 🔍",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Sueña con ser Hokage. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball tiene una transformación llamada Super Saiyajin Blue? 🔵",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de Attack on Titan es el líder de la Legión de Reconocimiento? 🛡️",
+        "response": "Levi Ackerman",
+        "hint": "⚔️ Conocido por su habilidad en combate. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Pokémon es el entrenador de Brock? 💎",
+        "response": "Ash Ketchum",
+        "hint": "🎒 Viaja para convertirse en maestro Pokémon. Tiene 10 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Punch Man es el héroe número uno? 🦸‍♂️",
+        "response": "Saitama",
+        "hint": "👊 Puede derrotar a cualquier enemigo con un solo golpe. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el poder de lanzar explosiones? 💥",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Es conocido por su temperamento explosivo. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto tiene el poder del Rasengan? 🌪️",
+        "response": "Naruto Uzumaki",
+        "hint": "🔥 Sueña con ser Hokage y es el protagonista. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Pokémon es conocido por evolucionar a Gengar? 👻",
+        "response": "Haunter",
+        "hint": "👻 Es de tipo fantasma. Tiene 7 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball usa el poder de la Genkidama? 🌟",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece tiene el poder de controlar el clima? ⛈️",
+        "response": "Nami",
+        "hint": "🌦️ Navegante de los Piratas de Sombrero de Paja. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Fairy Tail usa magia de fuego? 🔥",
+        "response": "Natsu Dragneel",
+        "hint": "🐉 Tiene la habilidad de quemar. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Bleach es el capitán de la 6ª División? 🗡️",
+        "response": "Byakuya Kuchiki",
+        "hint": "⚪ Usa una zanpakuto blanca. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Attack on Titan tiene un brazo mecánico? 🤖",
+        "response": "Eren Yeager",
+        "hint": "⚔️ Protagonista que puede transformarse en titán. Tiene 11 letras."
+    },
+    {
+        "question": "¿Qué personaje de Pokémon es la líder de gimnasio en Ciudad Verde? 🍃",
+        "response": "Erika",
+        "hint": "🌿 Especializada en Pokémon de tipo Planta. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por sus técnicas de fuego? 🔥",
+        "response": "Sasuke Uchiha",
+        "hint": "🔴 Miembro del clan Uchiha. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el príncipe Saiyajin? 👑",
+        "response": "Vegeta",
+        "hint": "⚔️ Rival de Goku. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el carpintero del equipo? 🪚",
+        "response": "Usopp",
+        "hint": "🎯 Especializado en sniper y mentiroso. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el poder de multiplicarse? ✨",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto tiene una máscara y usa técnicas de viento? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Fairy Tail es conocido por su habilidad de vuelo? 🕊️",
+        "response": "Lucy Heartfilia",
+        "hint": "✨ Usa llaves para invocar espíritus celestiales. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué personaje de Bleach puede ver espíritus? 👻",
+        "response": "Ichigo Kurosaki",
+        "hint": "⚔️ Protagonista que se convierte en Soul Reaper. Tiene 15 letras."
+    },
+    {
+        "question": "¿Qué personaje de Attack on Titan puede transformarse en titán? 🛡️",
+        "response": "Eren Yeager",
+        "hint": "⚔️ Protagonista principal. Tiene 11 letras."
+    },
+    {
+        "question": "¿Qué líder de gimnasio en Ciudad Plateada usa Pokémon de tipo Hielo? ❄️",
+        "response": "Will",
+        "hint": "⛄ Especializado en Pokémon de tipo Hielo. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto tiene la habilidad de manipular ríos de lava? 🌋",
+        "response": "Sasuke Uchiha",
+        "hint": "🔴 Miembro del clan Uchiha. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball se transforma en Majin? 😈",
+        "response": "Vegeta",
+        "hint": "⚔️ Príncipe Saiyajin de Dragon Ball. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el cocinero del equipo? 🍳",
+        "response": "Sanji",
+        "hint": "🍴 Especializado en artes marciales y cocina. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede manipular explosiones? 💣",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el hermano de Sasuke? 🔴",
+        "response": "Itachi Uchiha",
+        "hint": "⚔️ Miembro del clan Uchiha. Tiene 12 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el médico del equipo? 🩺",
+        "response": "Tony Tony Chopper",
+        "hint": "🐷 Usa una fruta del diablo que le permite transformarse. Tiene 18 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su personalidad excéntrica? 🎭",
+        "response": "Himiko Toga",
+        "hint": "🧸 Tiene una obsesión con Deku. Tiene 11 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su transformación en Super Saiyajin God? 🔥",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el arqueólogo del equipo? 📚",
+        "response": "Nami",
+        "hint": "🌦️ Navegante de los Piratas de Sombrero de Paja. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es el maestro número uno en combate? 🥋",
+        "response": "All Might",
+        "hint": "💥 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su técnica de clonación? 🌪️",
+        "response": "Naruto Uzumaki",
+        "hint": "🔥 Protagonista que sueña con ser Hokage. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball usa el Kamehameha? 🌊",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el carpintero del equipo? 🪚",
+        "response": "Usopp",
+        "hint": "🎯 Especializado en sniper y mentiroso. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de One For All? 💥",
+        "response": "Izuku Midoriya",
+        "hint": "🦸‍♂️ También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto usa el Rasenshuriken? 🍃",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista que sueña con ser Hokage. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball tiene un compañero llamado Krillin? 🤼‍♂️",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el espadachín de los Piratas de Sombrero de Paja? ⚔️",
+        "response": "Roronoa Zoro",
+        "hint": "🏴‍☠️ Usa tres espadas. Tiene 12 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto puede controlar múltiples bestias con cola? 🦊",
+        "response": "Naruto Uzumaki",
+        "hint": "🌪️ Protagonista con nueve colas. Tiene 14 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de teletransportación? 🌌",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el navegante del equipo? 🌊",
+        "response": "Nami",
+        "hint": "🌦️ Especializada en clima y navegación. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia es conocido por su velocidad increíble? ⚡",
+        "response": "Katsuki Bakugo",
+        "hint": "🔥 Usa explosiones en sus manos. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es conocido por su Sharingan y su clan? 🔴",
+        "response": "Sasuke Uchiha",
+        "hint": "⚔️ Rival de Naruto. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es el Dios de la Destrucción del Universo 7? 🌌",
+        "response": "Beerus",
+        "hint": "😈 Tiene una cola y ojos verdes. Tiene 6 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia puede usar múltiples Quirks? 🌀",
+        "response": "Izuku Midoriya",
+        "hint": "💥 También conocido como Deku. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Naruto es el líder de la Aldea Oculta de la Hoja? 🍃",
+        "response": "Kakashi Hatake",
+        "hint": "🌀 Profesor de Team 7. Tiene 13 letras."
+    },
+    {
+        "question": "¿Qué personaje de Dragon Ball es conocido por su técnica de vuelo llamada Kaioken? 🚀",
+        "response": "Goku",
+        "hint": "💪 Saiyajin de Dragon Ball. Tiene 4 letras."
+    },
+    {
+        "question": "¿Qué personaje de One Piece es el músico del equipo? 🎸",
+        "response": "Brook",
+        "hint": "💀 Es un esqueleto viviente. Tiene 5 letras."
+    },
+    {
+        "question": "¿Qué personaje de My Hero Academia tiene el Quirk de Fuerza Sobrehumana? 💪",
+        "response": "All Might",
+        "hint": "🥋 Héroe símbolo de la paz. Tiene 9 letras."
+    },
+    {
+        "question": "¿Qué le falta a un esqueleto para poder vivir? 🦴",
+        "response": "La carne",
+        "hint": "🍖 Está dentro de nosotros. Tiene 7 letras."
+    }
+]
