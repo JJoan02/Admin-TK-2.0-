@@ -1,37 +1,32 @@
-import fs from 'fs';
 import { downloadContentFromMessage } from '@whiskeysockets/baileys';
 
 let handler = async (m, { conn }) => {
-    // Mensaje inicial y reacción de inicio
-    let statusMessage = await conn.reply(
-        m.chat,
-        `📤 **Admin-TK informa:**\nPreparando el reenvío del mensaje...`,
-        m
-    );
-    await conn.relayMessage(m.chat, {
-        reactionMessage: { key: m.key, text: "⏳" } // Reacción de inicio
-    });
-
     try {
         // Verificar si se respondió a un mensaje
         if (!m.quoted) {
-            await conn.updateMessage(
+            // Enviar instrucciones al usuario
+            await conn.reply(
                 m.chat,
-                statusMessage.key,
-                `❌ **Admin-TK informa:**\nDebes responder a un mensaje para reenviarlo.\n\n📋 *Ejemplo de uso:*\n1️⃣ Responde al mensaje que deseas reenviar.\n2️⃣ Escribe el comando: *.reenviar*\n\n✔️ *Soporte para texto, fotos, videos, documentos y más.*`
+                `❌ **Admin-TK informa:**\nDebes responder a un mensaje para reenviarlo.
+
+📋 *Ejemplo de uso:*
+1️⃣ Responde al mensaje que deseas reenviar.
+2️⃣ Escribe el comando: *.reenviar*
+
+✔️ *Soporte para texto, fotos, videos, documentos y más.*`,
+                m
             );
             return;
         }
+
+        // Reaccionar al mensaje del usuario indicando que se está procesando
+        await conn.sendMessage(m.chat, { react: { text: '⏳', key: m.key }});
 
         const quoted = m.quoted;
         const mime = quoted.mimetype || '';
         const text = quoted.text || '';
 
-        // Construir el mensaje a enviar
-        let messageOptions = {
-            caption: `📤 *Admin-TK Reenvío:*\n\n${text}`,
-            mentions: quoted.mentionedJid || []
-        };
+        let messageOptions = {};
 
         // Si el mensaje tiene contenido multimedia, descargarlo y reenviarlo
         if (mime) {
@@ -50,13 +45,14 @@ let handler = async (m, { conn }) => {
                 messageOptions.video = buffer;
             } else if (mediaType === 'audio') {
                 messageOptions.audio = buffer;
-                messageOptions.ptt = true; // Si deseas que se envíe como nota de voz
-            } else if (mediaType === 'document') {
+                messageOptions.ptt = true; // Enviar como nota de voz si es audio
+            } else if (mediaType === 'application') {
                 messageOptions.document = buffer;
-                messageOptions.fileName = quoted.fileName || 'Documento';
+                messageOptions.fileName = quoted.filename || 'Documento';
                 messageOptions.mimetype = mime;
             }
-        } else if (quoted.sticker) {
+            messageOptions.caption = `📤 *Admin-TK Reenvío:*\n\n${text}`;
+        } else if (quoted.type === 'stickerMessage') {
             // Si es un sticker, descargar y reenviar
             const stream = await downloadContentFromMessage(quoted.message[quoted.mtype], 'sticker');
             let buffer = Buffer.from([]);
@@ -66,39 +62,38 @@ let handler = async (m, { conn }) => {
             }
 
             messageOptions.sticker = buffer;
-        } else {
+        } else if (text) {
             // Si es solo texto, enviar como texto
             messageOptions.text = `📤 *Admin-TK Reenvío:*\n\n${text}`;
+        } else {
+            // Si el mensaje no es compatible
+            await conn.reply(
+                m.chat,
+                `❌ **Admin-TK informa:**\nLo siento, el tipo de mensaje no es compatible para reenviar.`,
+                m
+            );
+            // Reaccionar con ❌
+            await conn.sendMessage(m.chat, { react: { text: '❌', key: m.key }});
+            return;
         }
 
         // Enviar el mensaje reenviado
         await conn.sendMessage(m.chat, messageOptions, { quoted: m });
 
-        // Editar el mensaje inicial para indicar éxito
-        await conn.updateMessage(
-            m.chat,
-            statusMessage.key,
-            `✅ **Admin-TK informa:**\nEl mensaje ha sido reenviado correctamente. 📩`
-        );
-
-        // Reacción de éxito
-        await conn.relayMessage(m.chat, {
-            reactionMessage: { key: m.key, text: "✅" }
-        });
+        // Reaccionar al mensaje del usuario indicando éxito
+        await conn.sendMessage(m.chat, { react: { text: '✅', key: m.key }});
     } catch (error) {
         console.error("❌ Error en el plugin tools-reenviar:", error);
 
-        // Editar el mensaje inicial para indicar error
-        await conn.updateMessage(
+        // Enviar mensaje de error al usuario
+        await conn.reply(
             m.chat,
-            statusMessage.key,
-            `❌ **Admin-TK informa:**\nNo se pudo reenviar el mensaje debido a un error: ${error.message}`
+            `❌ **Admin-TK informa:**\nNo se pudo reenviar el mensaje debido a un error: ${error.message}`,
+            m
         );
 
-        // Reacción de error
-        await conn.relayMessage(m.chat, {
-            reactionMessage: { key: m.key, text: "❌" }
-        });
+        // Reaccionar al mensaje del usuario indicando error
+        await conn.sendMessage(m.chat, { react: { text: '❌', key: m.key }});
     }
 };
 
@@ -107,3 +102,4 @@ handler.tags = ['tools'];
 handler.command = ['reenviar'];
 
 export default handler;
+
