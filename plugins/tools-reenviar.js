@@ -28,45 +28,37 @@ let handler = async (m, { conn }) => {
 
         let messageOptions = {};
 
-        // Si el mensaje tiene contenido multimedia, descargarlo y reenviarlo
         if (mime) {
+            // Mensaje multimedia
             const mediaType = mime.split('/')[0];
-            const stream = await downloadContentFromMessage(quoted.message[quoted.mtype], mediaType);
-            let buffer = Buffer.from([]);
+            const buffer = await quoted.download();
+            if (!buffer) throw new Error('No se pudo descargar el medio');
 
-            for await (const chunk of stream) {
-                buffer = Buffer.concat([buffer, chunk]);
-            }
-
-            // Añadir el contenido multimedia al mensaje
-            if (mediaType === 'image') {
+            if (mime.includes('image')) {
                 messageOptions.image = buffer;
-            } else if (mediaType === 'video') {
+            } else if (mime.includes('video')) {
                 messageOptions.video = buffer;
-            } else if (mediaType === 'audio') {
+            } else if (mime.includes('audio')) {
                 messageOptions.audio = buffer;
-                messageOptions.ptt = true; // Enviar como nota de voz si es audio
-            } else if (mediaType === 'application') {
+                messageOptions.ptt = false; // Enviar como audio normal
+            } else if (mime.includes('application')) {
                 messageOptions.document = buffer;
-                messageOptions.fileName = quoted.filename || 'Documento';
+                messageOptions.fileName = quoted.fileName || 'Documento';
                 messageOptions.mimetype = mime;
             }
-            messageOptions.caption = `📤 *Admin-TK Reenvío:*\n\n${text}`;
-        } else if (quoted.type === 'stickerMessage') {
-            // Si es un sticker, descargar y reenviar
-            const stream = await downloadContentFromMessage(quoted.message[quoted.mtype], 'sticker');
-            let buffer = Buffer.from([]);
 
-            for await (const chunk of stream) {
-                buffer = Buffer.concat([buffer, chunk]);
-            }
+            messageOptions.caption = `📤 *Admin-TK Reenvío:*\n\n${text}`;
+        } else if (quoted.mtype === 'stickerMessage') {
+            // Sticker
+            const buffer = await quoted.download();
+            if (!buffer) throw new Error('No se pudo descargar el sticker');
 
             messageOptions.sticker = buffer;
         } else if (text) {
-            // Si es solo texto, enviar como texto
+            // Mensaje de texto
             messageOptions.text = `📤 *Admin-TK Reenvío:*\n\n${text}`;
         } else {
-            // Si el mensaje no es compatible
+            // Mensaje no soportado
             await conn.reply(
                 m.chat,
                 `❌ **Admin-TK informa:**\nLo siento, el tipo de mensaje no es compatible para reenviar.`,
