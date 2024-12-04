@@ -3,86 +3,83 @@
   "version": "2.0.0",
   "description": "Bot para WhatsApp de Administración de Grupos basado en Multi Device",
   "main": "index.js",
-  "type": "module",
-  "directories": {
-    "lib": "lib",
-    "plugins": "plugins"
-  },
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"No test specified\" && exit 1"
-  },
-  "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp",
-    "Games-wabot",
-    "wabot-aq",
-    "multi-device",
-    "MD",
-    "baileys-md",
-    "administración-de-grupos"
-  ],
-  "homepage": "https://github.com/JJoan02/Admin-TK-2.0-",
-  "author": {
-    "name": "Joan TK",
-    "email": "tu_email@example.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JJoan02/Admin-TK-2.0-.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JJoan02/Admin-TK-2.0-/issues"
-  },
-  "license": "GPL-3.0-or-later",
-  "dependencies": {
-    "@bochilteam/scraper": "^4.2.4",
-    "@whiskeysockets/baileys": "^6.7.8",
-    "@ibaraki-douji/pixivts": "^2.4.1",
-    "@starlightsteam/scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
-    "awesome-phonenumber": "^6.7.8",
-    "axios": "^1.4.0",
-    "chalk": "^5.3.0",
-    "cheerio": "^1.0.0-rc.12",
-    "acrcloud": "github:acrcloud/acrcloud-nodejs",
-    "file-type": "^18.0.0",
-    "fluent-ffmpeg": "^2.1.2",
-    "formdata-node": "^4.4.3",
-    "google-it": "^1.1.3",
-    "node-webpmux": "^3.0.2",
-    "human-readable": "^1.0.2",
-    "jsdom": "^22.1.0",
-    "lodash": "^4.17.21",
-    "lowdb": "^3.0.0",
-    "jimp": "^0.22.10",
-    "moment-timezone": "^0.5.40",
-    "translate-google-api": "^1.0.4",
-    "node-gtts": "^2.0.0",
-    "url-regex-safe": "^5.1.0",
-    "perf_hooks": "^1.0.0",
-    "url-file-size": "^1.0.2",
-    "pino": "^8.14.0",
-    "qrcode": "^1.5.0",
-    "qrcode-terminal": "^0.12.0",
-    "readline": "^1.3.0",
-    "sanzy-spotifydl": "github:sanzygit/spotifydl",
-    "syntax-error": "^1.4.0",
-    "speedtest-net": "^2.2.0",
-    "yargs": "^17.7.2",
-    "yt-search": "^2.10.4",
-    "ytdl-mp3": "github:HanSamu-27/ytdl-mp3",
-    "megajs": "^1.0.6",
-    "pdfkit": "^0.13.0",
-    "fluid-spotify.js": "github:FluidCoding/fluid-spotify.js"
-  },
-  "optionalDependencies": {
-    "@vitalets/google-translate-api": "^9.2.0"
-  },
-  "overrides": {
-    "sharp": "^0.32.2"
+	"type": "module",
+	"directories": {
+		"lib": "lib",
+		"plugins": "plugins"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"termux-whatsapp-bot",
+		"whatsapp-bot",
+		"whatsapp",
+		"js-whatsapp",
+		"whatsapp",
+		"Games-wabot",
+		"wabot-aq",
+		"multi-device",
+		"MD",
+		"baileys-md"
+	],
+	"homepage": "https://github.com/JJoan02/Admin-TK-2.0-",
+	"author": {
+		"name": "Joan TK"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JJoan02/Admin-TK-2.0-.git"
+	},
+	"bugs": {
+		"url": "https://github.com/JJoan02/Admin-TK-2.0-/issues"
+	},
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"@bochilteam/scraper": "^4.2.4",
+		"@whiskeysockets/baileys": "^6.7.8",
+		"@ibaraki-douji/pixivts": "^2.4.1",
+		"@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
+		"awesome-phonenumber": "^6.7.8",
+		"fluid-spotify.js": "*",
+		"axios": "*",
+		"cfonts": "^3.2.0",
+		"chalk": "^5.3.0",
+		"cheerio": "npm:cheerio@1.0.0-rc.12",
+		"acrcloud": "*",
+		"file-type": "*",
+		"fluent-ffmpeg": "^2.1.2",
+		"formdata-node": "*",
+		"google-it": "*",
+		"node-webpmux": "*",
+		"human-readable": "*",
+		"jsdom": "*",
+		"lodash": "*",
+		"lowdb": "^3.0.0",
+		"jimp": "*",
+		"moment-timezone": "*",
+		"translate-google-api": "^1.0.4",
+		"node-gtts": "*",
+		"url-regex-safe": "*",
+		"perf_hooks": "*",
+		"url-file-size": "*",
+		"pino": "*",
+		"qrcode": "*",
+		"qrcode-terminal": "*",
+		"readline": "*",
+		"sanzy-spotifydl": "*",
+		"syntax-error": "^1.4.0",
+		"speedtest-net": "^2.2.0",
+		"yargs": "^17.7.2",
+		"yt-search": "^2.10.4",
+		"ytdl-mp3": "github:HanSamu-27/ytdl-mp3"
+	},
+	"optionalDependencies": {
+		"@vitalets/google-translate-api": "^9.2.0"
+	},
+	"overrides": {
+		"sharp": "^0.32.2"
+	}
   }
-}
+
 
